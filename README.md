@@ -1,4 +1,3 @@
-Zazn
-====
+# Meditation Timer
 
-A beautiful and simple meditation tiemr
+This is the precursor to an official meditation timer I'm building with [Thomas Palumbo](http://thomaspalumbo.com)
